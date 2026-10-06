@@ -190,3 +190,7 @@ onboard.ai/
 <a href="https://github.com/srikar6259">
 <img src="https://wsrv.nl/?url=github.com/srikar6259.png&w=120&h=120&fit=cover&mask=circle" width="60" height="60" alt="aadarsh-create" />
 </a>
+
+<a href="https://github.com/Hrushi-Goud">
+<img src="https://wsrv.nl/?url=github.com/Hrushi-Goud.png&w=120&h=120&fit=cover&mask=circle" width="60" height="60" alt="Hrushi-Goud" />
+</a>
